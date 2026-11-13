@@ -13,4 +13,4 @@ m_modelState=0x140
 m_vecAbsOrigin=0xC8
 exe_version=3
 exe_sha256=placeholder
-exe_url=https://github.com/<you>/<repo>/releases/download/v3/VALEX.exe
+exe_url=https://github.com/kxndxx2/Valexv2/releases/download/1.0.0/VALEX.V2.exe
