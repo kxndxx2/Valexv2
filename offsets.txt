@@ -12,5 +12,5 @@ m_pGameSceneNode=0x330
 m_modelState=0x140
 m_vecAbsOrigin=0xC8
 exe_version=3
-exe_sha256=placeholder
+exe_sha256=f79000542a2d148538a59945b1e577259ad7077453900673523c4f74a0cc15f7
 exe_url=https://github.com/kxndxx2/Valexv2/releases/download/1.0.0/VALEX.V2.exe
